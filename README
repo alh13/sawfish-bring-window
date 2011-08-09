@@ -1,0 +1,5 @@
+
+I wrote this back in 2000 and used it until 2003. Not sure if it still works with modern sawfish.
+
+bring-window.jl is extension code for the sawmill window manager. With bring-window you can "pull" any of your managed windows to your current pointer location, and then when you're done return it to its original location. This is useful if you operate with several viewports and you need quick access to a window that is off-screen.
+
